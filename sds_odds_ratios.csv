@@ -1,0 +1,6 @@
+,OR_per_1SD,ci_lo,ci_hi,p_value,reliable
+conscientiousness,26.512,5.814,120.899,0.0,True
+openness,20.777,5.769,74.83,0.0,True
+neuroticism,3.921,1.701,9.036,0.001,True
+extraversion,3.917,1.498,10.243,0.005,True
+agreeableness,2.456,0.978,6.168,0.056,False

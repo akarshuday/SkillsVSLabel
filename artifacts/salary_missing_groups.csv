@@ -1,0 +1,25 @@
+,n,missing,share,metric,group
+BI / Reporting,279,0,0.0,salary_missing,title_family
+Data Analyst,3211,0,0.0,salary_missing,title_family
+Data Engineer,353,0,0.0,salary_missing,title_family
+Data Scientist,252,0,0.0,salary_missing,title_family
+ML / AI Engineer,527,0,0.0,salary_missing,title_family
+Manager / Lead,4716,0,0.0,salary_missing,title_family
+Other,5502,0,0.0,salary_missing,title_family
+Ahmedabad,195,0,0.0,salary_missing,location
+Kolkata,187,0,0.0,salary_missing,location
+Trivandrum,86,0,0.0,salary_missing,location
+Pune,1084,0,0.0,salary_missing,location
+Other,1074,0,0.0,salary_missing,location
+Noida,543,0,0.0,salary_missing,location
+Navi Mumbai,114,0,0.0,salary_missing,location
+Mumbai,2408,0,0.0,salary_missing,location
+Kochi,86,0,0.0,salary_missing,location
+Bangalore,3820,0,0.0,salary_missing,location
+Jaipur,52,0,0.0,salary_missing,location
+Hyderabad,983,0,0.0,salary_missing,location
+Gurugram,1533,0,0.0,salary_missing,location
+Delhi,1584,0,0.0,salary_missing,location
+Chennai,975,0,0.0,salary_missing,location
+Chandigarh,65,0,0.0,salary_missing,location
+Vadodara,51,0,0.0,salary_missing,location

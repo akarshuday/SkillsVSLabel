@@ -1,0 +1,6 @@
+trait,peak_raw,z2_coef,z2_p,lrt_p,shape
+neuroticism,39.6,-0.504,0.0012,0.0003,inverted-U
+extraversion,50.9,-1.308,0.0,0.0,inverted-U
+openness,52.8,-1.874,0.0003,0.0,inverted-U
+agreeableness,48.6,-2.865,0.0,0.0,inverted-U
+conscientiousness,57.2,-1.792,0.0083,0.0016,inverted-U

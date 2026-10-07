@@ -1,0 +1,18 @@
+location,n,share,kind,metric
+Chandigarh,65,0.5230769230769231,location,floor_hidden
+Vadodara,51,0.49019607843137253,location,floor_hidden
+Jaipur,52,0.4807692307692308,location,floor_hidden
+Ahmedabad,195,0.38461538461538464,location,floor_hidden
+Kolkata,187,0.3315508021390374,location,floor_hidden
+Other,1074,0.30074487895716945,location,floor_hidden
+Navi Mumbai,114,0.2894736842105263,location,floor_hidden
+Kochi,86,0.26744186046511625,location,floor_hidden
+Noida,543,0.2541436464088398,location,floor_hidden
+Chennai,975,0.23076923076923078,location,floor_hidden
+Hyderabad,983,0.1953204476093591,location,floor_hidden
+Delhi,1584,0.18686868686868688,location,floor_hidden
+Pune,1084,0.17619926199261993,location,floor_hidden
+Trivandrum,86,0.1744186046511628,location,floor_hidden
+Mumbai,2408,0.14327242524916944,location,floor_hidden
+Gurugram,1533,0.1232876712328767,location,floor_hidden
+Bangalore,3820,0.09790575916230367,location,floor_hidden

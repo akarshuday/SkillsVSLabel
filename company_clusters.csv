@@ -1,0 +1,609 @@
+company_name,jobs,avg_salary,avg_salary_unw,titles,exp,postings,cluster,cluster_name
+TCS,9064.0,6.75930052956752,9.459999999999999,10.0,1.917586054721977,10.0,0,high-volume multi-title recruiters
+Accenture,5425.0,8.574248847926269,12.190000000000001,10.0,1.7187096774193549,10.0,0,high-volume multi-title recruiters
+Cognizant,3813.0,8.770574350904798,11.209999999999999,10.0,1.4576448990296356,10.0,0,high-volume multi-title recruiters
+Wipro,2579.0,8.575727025979061,10.545454545454545,10.0,2.074447460255913,11.0,0,high-volume multi-title recruiters
+IBM,2480.0,10.710201612903226,13.34,10.0,2.0125,10.0,0,high-volume multi-title recruiters
+Genpact,2147.0,6.636469492314858,11.825,8.0,1.144387517466232,8.0,0,high-volume multi-title recruiters
+Capgemini,1994.0,8.016700100300904,10.809999999999999,10.0,1.4488465396188566,10.0,0,high-volume multi-title recruiters
+HCL Technologies,1908.0,7.8042976939203355,10.158333333333333,10.0,1.8417190775681342,12.0,0,high-volume multi-title recruiters
+L&T Infotech,1873.0,9.697277095568607,12.588888888888889,9.0,1.8878804057661505,9.0,0,high-volume multi-title recruiters
+Tech Mahindra,1830.0,7.5773770491803285,9.86,10.0,2.308743169398907,10.0,0,high-volume multi-title recruiters
+Infosys,1780.0,8.273988764044944,9.553846153846155,10.0,1.4921348314606742,13.0,0,high-volume multi-title recruiters
+Deloitte,1723.0,9.553627394080092,14.263636363636364,10.0,1.4625652930934416,11.0,0,high-volume multi-title recruiters
+Evalueserve,1698.0,8.46113074204947,9.6,3.0,1.5977620730270907,3.0,0,high-volume multi-title recruiters
+Amazon,1279.0,14.164268960125096,20.144444444444446,9.0,1.8749022673964035,9.0,0,high-volume multi-title recruiters
+EXL Service,1271.0,7.699291896144767,10.854545454545454,8.0,0.8088119590873328,11.0,0,high-volume multi-title recruiters
+DXC Technology,1076.0,8.400557620817844,11.459999999999999,10.0,2.340148698884758,10.0,0,high-volume multi-title recruiters
+Ernst & Young,896.0,9.99185267857143,14.08888888888889,9.0,1.7879464285714286,9.0,0,high-volume multi-title recruiters
+HSBC,819.0,13.203785103785105,14.700000000000001,8.0,3.0427350427350426,9.0,0,high-volume multi-title recruiters
+Quantiphi Analytics Solutions,785.0,11.940254777070065,11.716666666666667,6.0,0.9579617834394905,6.0,0,high-volume multi-title recruiters
+American Express,781.0,9.512035851472472,15.900000000000002,7.0,1.3047375160051216,7.0,0,high-volume multi-title recruiters
+Optum,717.0,13.849651324965134,15.533333333333335,8.0,2.8647140864714085,9.0,0,high-volume multi-title recruiters
+Barclays,687.0,11.705822416302766,14.463636363636363,7.0,1.8500727802037846,11.0,0,high-volume multi-title recruiters
+Societe Generale,659.0,14.159484066767831,17.119999999999997,5.0,3.101669195751138,5.0,0,high-volume multi-title recruiters
+UnitedHealth,638.0,12.696865203761757,14.1125,8.0,2.628526645768025,8.0,0,high-volume multi-title recruiters
+JP Morgan Chase,632.0,13.957278481012656,18.869999999999997,10.0,2.598101265822785,10.0,0,high-volume multi-title recruiters
+Mindtree,602.0,8.389036544850498,10.690000000000001,10.0,1.7724252491694352,10.0,0,high-volume multi-title recruiters
+Oracle,574.0,9.201742160278744,14.509090909090906,9.0,2.0940766550522647,11.0,0,high-volume multi-title recruiters
+Fidelity National Information Services,559.0,12.383184257602863,11.916666666666666,6.0,3.3488372093023258,6.0,0,high-volume multi-title recruiters
+Citi,549.0,16.079052823315116,17.855555555555554,8.0,2.0327868852459017,18.0,0,high-volume multi-title recruiters
+Shell,546.0,19.87948717948718,21.966666666666665,9.0,3.6355311355311355,9.0,0,high-volume multi-title recruiters
+Flipkart,540.0,11.44925925925926,15.183333333333332,6.0,1.4944444444444445,6.0,0,high-volume multi-title recruiters
+eClerx,533.0,3.7806754221388372,6.55,6.0,0.5947467166979362,6.0,0,high-volume multi-title recruiters
+GlobalLogic,531.0,3.8357815442561205,12.066666666666668,6.0,1.2881355932203389,6.0,0,high-volume multi-title recruiters
+Cgi Group,513.0,8.939766081871344,12.34,5.0,3.43859649122807,5.0,0,high-volume multi-title recruiters
+Fractal Analytics,484.0,15.507644628099174,17.400000000000002,6.0,2.3491735537190084,6.0,0,high-volume multi-title recruiters
+Tiger Analytics,462.0,12.9974025974026,15.075000000000001,8.0,1.2554112554112553,8.0,0,high-volume multi-title recruiters
+Concentrix Corporation,459.0,4.357734204793028,4.449999999999999,6.0,1.3398692810457515,6.0,0,high-volume multi-title recruiters
+ICICI Bank,456.0,6.947368421052633,8.95,4.0,1.1907894736842106,4.0,0,high-volume multi-title recruiters
+NTT DATA,442.0,7.503619909502262,9.671428571428573,7.0,2.0497737556561084,7.0,0,high-volume multi-title recruiters
+Hewlett-Packard Enterprise,431.0,9.472389791183293,13.766666666666666,9.0,2.17169373549884,9.0,0,high-volume multi-title recruiters
+Dell,424.0,9.849528301886794,11.70909090909091,8.0,1.8962264150943395,11.0,0,high-volume multi-title recruiters
+Conduent,413.0,6.830750605326878,6.266666666666667,3.0,2.6053268765133173,3.0,0,high-volume multi-title recruiters
+Ericsson,402.0,11.63830845771144,13.649999999999999,8.0,2.8208955223880596,8.0,0,high-volume multi-title recruiters
+Wells Fargo India,395.0,14.77746835443038,15.8875,8.0,3.6354430379746834,8.0,0,high-volume multi-title recruiters
+BNP Paribas,377.0,12.654376657824933,12.825,2.0,4.400530503978779,4.0,0,high-volume multi-title recruiters
+Walmart,362.0,25.831491712707184,28.666666666666668,6.0,2.947513812154696,6.0,0,high-volume multi-title recruiters
+HDFC Bank,355.0,8.722816901408452,12.516666666666667,6.0,1.7267605633802816,6.0,0,high-volume multi-title recruiters
+Mphasis,353.0,9.784702549575071,11.666666666666666,9.0,1.7337110481586402,9.0,0,high-volume multi-title recruiters
+Mu Sigma,332.0,7.587650602409639,8.933333333333334,6.0,1.0421686746987953,6.0,0,high-volume multi-title recruiters
+PwC,326.0,10.199079754601227,13.588888888888887,9.0,1.460122699386503,9.0,0,high-volume multi-title recruiters
+IQVIA,319.0,10.710031347962383,14.1875,8.0,2.06269592476489,8.0,0,high-volume multi-title recruiters
+Axis Bank,313.0,9.964217252396166,10.35,6.0,0.9201277955271565,6.0,0,high-volume multi-title recruiters
+Newgen Software Technologies,308.0,10.293506493506493,10.2,2.0,2.551948051948052,2.0,1,small low-pay short-tenure employers
+Standard Chartered Bank,306.0,13.656862745098039,14.883333333333333,3.0,2.80718954248366,6.0,0,high-volume multi-title recruiters
+Amdocs,302.0,12.333443708609272,11.92,5.0,3.923841059602649,5.0,0,high-volume multi-title recruiters
+Zomato,301.0,10.927574750830564,10.866666666666667,3.0,1.043189368770764,3.0,0,high-volume multi-title recruiters
+Tredence,298.0,10.350671140939598,12.166666666666666,6.0,1.3791946308724832,6.0,0,high-volume multi-title recruiters
+Unilog Content Solutions ( P),291.0,2.7646048109965635,2.85,2.0,1.7560137457044673,2.0,1,small low-pay short-tenure employers
+UST,289.0,11.304844290657439,12.2,10.0,3.262975778546713,10.0,0,high-volume multi-title recruiters
+Zensar Technologies,286.0,8.201748251748251,9.316666666666666,6.0,2.8111888111888113,6.0,0,high-volume multi-title recruiters
+Hexaware Technologies,285.0,9.697192982456139,10.983333333333334,6.0,2.16140350877193,6.0,0,high-volume multi-title recruiters
+Maersk,285.0,16.76736842105263,15.024999999999999,6.0,4.063157894736842,8.0,0,high-volume multi-title recruiters
+VMware Software,284.0,14.488732394366197,18.75,4.0,4.01056338028169,4.0,0,high-volume multi-title recruiters
+Novartis Healthcare,279.0,13.619713261648746,16.214285714285715,7.0,1.985663082437276,7.0,0,high-volume multi-title recruiters
+Temenos,273.0,11.136996336996337,11.0,2.0,3.5934065934065935,2.0,1,small low-pay short-tenure employers
+KPMG,269.0,8.845353159851301,9.86,5.0,1.237918215613383,5.0,0,high-volume multi-title recruiters
+EC-Mobility,259.0,2.1,2.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Reliance Jio,259.0,10.479536679536679,12.566666666666668,6.0,1.2393822393822393,6.0,0,high-volume multi-title recruiters
+WNS,258.0,6.667829457364341,7.2,5.0,1.2286821705426356,5.0,0,high-volume multi-title recruiters
+Credit Suisse,257.0,15.602334630350194,16.299999999999997,3.0,2.482490272373541,3.0,0,high-volume multi-title recruiters
+Virtusa Consulting Services,249.0,9.769076305220883,9.066666666666666,6.0,1.9879518072289157,6.0,0,high-volume multi-title recruiters
+Fiserv,245.0,12.33673469387755,12.88,5.0,3.363265306122449,5.0,0,high-volume multi-title recruiters
+Novo Nordisk,241.0,12.092531120331952,13.6,2.0,4.282157676348548,2.0,1,small low-pay short-tenure employers
+Oyo Rooms,235.0,10.106382978723403,14.76,5.0,0.44680851063829785,5.0,0,high-volume multi-title recruiters
+Legato Health Technologies,235.0,12.289361702127662,14.299999999999999,7.0,3.3148936170212764,7.0,0,high-volume multi-title recruiters
+NetCracker,221.0,21.309049773755653,23.35,2.0,6.402714932126697,2.0,2,senior high-pay boutiques
+S&P Global,219.0,7.171232876712328,8.033333333333333,4.0,2.2511415525114153,6.0,0,high-volume multi-title recruiters
+Zen3 Info Solutions,215.0,3.250697674418605,3.7,2.0,1.2511627906976743,2.0,1,small low-pay short-tenure employers
+ZS,211.0,12.289573459715639,14.233333333333334,6.0,1.042654028436019,6.0,0,high-volume multi-title recruiters
+Ford Motor,203.0,11.841871921182264,12.371428571428572,7.0,1.7783251231527093,7.0,0,high-volume multi-title recruiters
+InnovAccer,198.0,10.65959595959596,10.866666666666665,3.0,0.5606060606060606,3.0,1,small low-pay short-tenure employers
+Larsen & Toubro Limited,195.0,8.152820512820513,8.4,6.0,1.3076923076923077,6.0,0,high-volume multi-title recruiters
+Cisco Systems,194.0,14.314432989690722,16.833333333333332,6.0,2.9329896907216493,6.0,0,high-volume multi-title recruiters
+Bridgei2i Analytics Solutions,194.0,6.377319587628866,6.85,4.0,0.24742268041237114,4.0,0,high-volume multi-title recruiters
+GE,192.0,16.1703125,17.62666666666667,5.0,3.9114583333333335,15.0,0,high-volume multi-title recruiters
+Cyient,192.0,4.538541666666666,5.800000000000001,3.0,1.828125,3.0,1,small low-pay short-tenure employers
+Ab Inbev,189.0,22.44656084656085,24.259999999999998,5.0,2.941798941798942,5.0,0,high-volume multi-title recruiters
+Paytm,185.0,9.384864864864864,15.449999999999998,6.0,1.7081081081081082,6.0,0,high-volume multi-title recruiters
+Ramco Systems,184.0,10.094565217391304,10.149999999999999,2.0,1.9782608695652173,2.0,1,small low-pay short-tenure employers
+BNY Mellon,181.0,8.999447513812154,11.124999999999998,4.0,3.270718232044199,4.0,0,high-volume multi-title recruiters
+Allianz Technology,179.0,9.626256983240223,10.05,2.0,3.7709497206703912,2.0,1,small low-pay short-tenure employers
+Bajaj Finserv,178.0,10.660112359550562,14.35,8.0,0.7359550561797753,8.0,0,high-volume multi-title recruiters
+Swiggy,177.0,10.998870056497175,12.0,3.0,1.1694915254237288,3.0,1,small low-pay short-tenure employers
+Tata Technologies,175.0,6.908,7.233333333333333,3.0,2.8857142857142857,3.0,1,small low-pay short-tenure employers
+CG Foods,175.0,4.8,4.8,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Cogencis Information Services,175.0,1.7,1.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Atos,174.0,9.671839080459769,12.166666666666666,5.0,2.8160919540229883,6.0,0,high-volume multi-title recruiters
+ITC Infotech India,174.0,9.158045977011493,13.442857142857141,7.0,1.396551724137931,7.0,0,high-volume multi-title recruiters
+NatWest Group,173.0,11.60578034682081,13.666666666666666,3.0,2.4104046242774566,3.0,1,small low-pay short-tenure employers
+ValueLabs,169.0,12.243195266272188,14.9125,8.0,3.337278106508876,8.0,0,high-volume multi-title recruiters
+Verizon,168.0,12.886309523809524,15.15,6.0,2.6726190476190474,6.0,0,high-volume multi-title recruiters
+Epsilon,168.0,13.77142857142857,16.416666666666664,6.0,3.3273809523809526,6.0,0,high-volume multi-title recruiters
+Coforge,164.0,16.12926829268293,18.119999999999997,5.0,4.7560975609756095,5.0,0,high-volume multi-title recruiters
+Ugam Solution,160.0,5.7375,6.966666666666666,3.0,0.65,3.0,1,small low-pay short-tenure employers
+Urjanet Energy Solutions,160.0,2.9887500000000005,3.25,2.0,1.2625,2.0,1,small low-pay short-tenure employers
+UBS,159.0,14.756603773584906,15.5,4.0,2.459119496855346,4.0,0,high-volume multi-title recruiters
+Honeywell Technology Solutions,155.0,13.5,15.299999999999999,7.0,2.503225806451613,7.0,0,high-volume multi-title recruiters
+GEP Worldwide,155.0,8.965806451612904,13.919999999999998,5.0,1.1096774193548387,5.0,0,high-volume multi-title recruiters
+Deutsche Bank,153.0,8.305228758169935,8.15,2.0,2.8366013071895426,2.0,1,small low-pay short-tenure employers
+Bank of America,152.0,16.154605263157897,16.866666666666664,6.0,2.7171052631578947,6.0,0,high-volume multi-title recruiters
+Gartner,150.0,16.838666666666665,17.74,3.0,1.9266666666666667,5.0,0,high-volume multi-title recruiters
+Qualsquad Infotech,149.0,2.0,2.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Affine Analytics,149.0,8.429530201342281,8.82,5.0,0.48322147651006714,5.0,0,high-volume multi-title recruiters
+Bharti Airtel,148.0,6.748648648648649,8.4,3.0,1.5810810810810811,3.0,1,small low-pay short-tenure employers
+LatentView Analytics,148.0,7.175675675675675,8.1,3.0,0.33783783783783783,3.0,1,small low-pay short-tenure employers
+PayPal,148.0,25.24121621621622,26.18,5.0,3.4054054054054053,5.0,0,high-volume multi-title recruiters
+Nokia,147.0,9.121768707482994,10.940000000000001,5.0,1.5850340136054422,5.0,0,high-volume multi-title recruiters
+Vodafone Idea,145.0,10.575862068965517,14.833333333333334,6.0,2.413793103448276,6.0,0,high-volume multi-title recruiters
+Sapient Corporation,145.0,15.099310344827586,14.8,5.0,2.7517241379310344,5.0,0,high-volume multi-title recruiters
+Merkle Sokrati,145.0,6.064137931034482,6.866666666666667,3.0,0.5793103448275863,3.0,1,small low-pay short-tenure employers
+Teleperformance,145.0,2.9089655172413793,7.199999999999999,3.0,1.1241379310344828,3.0,1,small low-pay short-tenure employers
+ValueMomentum,142.0,9.02605633802817,12.024999999999999,4.0,2.1619718309859155,4.0,0,high-volume multi-title recruiters
+TheMathCompany,141.0,7.95531914893617,9.95,4.0,1.1205673758865249,4.0,0,high-volume multi-title recruiters
+Harman,139.0,11.146043165467626,12.442857142857145,6.0,3.2302158273381294,7.0,0,high-volume multi-title recruiters
+3i Infotech,139.0,7.824460431654676,8.45,2.0,2.1007194244604315,2.0,1,small low-pay short-tenure employers
+Odessa,137.0,12.556204379562043,13.6,2.0,1.5985401459854014,2.0,1,small low-pay short-tenure employers
+Birlasoft,135.0,9.894074074074075,10.616666666666667,6.0,2.4518518518518517,6.0,0,high-volume multi-title recruiters
+Globant,133.0,16.436842105263157,17.25,4.0,4.022556390977444,4.0,0,high-volume multi-title recruiters
+Nielsen,132.0,5.633333333333334,7.1,4.0,1.3484848484848484,5.0,1,small low-pay short-tenure employers
+First Source,131.0,4.7763358778625955,10.3,4.0,1.4809160305343512,4.0,1,small low-pay short-tenure employers
+R1 RCM,131.0,4.000763358778626,4.225,4.0,1.5114503816793894,4.0,1,small low-pay short-tenure employers
+ABC,130.0,13.90153846153846,14.133333333333333,3.0,2.2153846153846155,3.0,1,small low-pay short-tenure employers
+Amadeus,128.0,14.8,14.8,1.0,4.0,1.0,2,senior high-pay boutiques
+Altimetrik,123.0,14.154471544715447,15.366666666666665,3.0,2.5609756097560976,3.0,1,small low-pay short-tenure employers
+Target,123.0,16.21707317073171,16.26,5.0,1.3821138211382114,5.0,0,high-volume multi-title recruiters
+Apex CoVantage,123.0,1.8,1.8,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Morningstar,121.0,5.358677685950414,9.433333333333334,3.0,0.9421487603305785,3.0,1,small low-pay short-tenure employers
+Myntra,118.0,10.540677966101695,12.799999999999999,3.0,1.347457627118644,3.0,1,small low-pay short-tenure employers
+Indium Software,118.0,10.81186440677966,11.016666666666666,6.0,1.5,6.0,0,high-volume multi-title recruiters
+Reliance Industries,116.0,8.611206896551725,8.7,4.0,1.543103448275862,4.0,0,high-volume multi-title recruiters
+Brillio,116.0,10.763793103448277,15.8,5.0,0.9396551724137931,5.0,0,high-volume multi-title recruiters
+Kantar,114.0,5.669298245614034,7.233333333333333,3.0,1.4736842105263157,3.0,1,small low-pay short-tenure employers
+Course5,114.0,6.364035087719298,7.674999999999999,4.0,1.2982456140350878,4.0,1,small low-pay short-tenure employers
+Synechron,113.0,16.839823008849557,15.825000000000001,4.0,4.893805309734513,4.0,2,senior high-pay boutiques
+Etech Global Services,113.0,7.539823008849558,7.8,2.0,1.8141592920353982,2.0,1,small low-pay short-tenure employers
+Ola Cabs,112.0,12.530357142857143,16.6,2.0,0.11607142857142858,2.0,1,small low-pay short-tenure employers
+Sapiens,111.0,14.68018018018018,15.25,2.0,3.189189189189189,2.0,1,small low-pay short-tenure employers
+Enquero,110.0,12.552727272727275,12.266666666666666,3.0,1.209090909090909,3.0,1,small low-pay short-tenure employers
+QUADRANT RESOURCE LLC,109.0,3.0,3.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+BYJU'S,108.0,7.983333333333333,8.45,4.0,0.8425925925925926,4.0,1,small low-pay short-tenure employers
+TEKsystems,107.0,12.937383177570092,14.016666666666666,6.0,3.2336448598130842,6.0,0,high-volume multi-title recruiters
+Capita,107.0,8.96822429906542,9.25,2.0,2.8317757009345796,2.0,1,small low-pay short-tenure employers
+General Mills,107.0,9.927102803738318,10.575,4.0,2.0186915887850465,4.0,0,high-volume multi-title recruiters
+Kotak Mahindra Bank,106.0,7.5,7.5,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Intellect Design Arena,106.0,12.501886792452828,14.2,2.0,2.8679245283018866,2.0,1,small low-pay short-tenure employers
+Microsoft Corporation,105.0,30.5,28.6,2.0,1.457142857142857,2.0,2,senior high-pay boutiques
+Teradata,102.0,13.566666666666666,13.55,2.0,3.6666666666666665,2.0,1,small low-pay short-tenure employers
+Persistent Systems,102.0,14.169607843137255,14.275,4.0,3.892156862745098,4.0,0,high-volume multi-title recruiters
+Mercedes-Benz Research & Development India,101.0,13.854455445544554,16.32,5.0,1.693069306930693,5.0,0,high-volume multi-title recruiters
+Ameriprise Financial,99.0,8.945454545454545,10.35,4.0,2.6161616161616164,4.0,0,high-volume multi-title recruiters
+Indegene,98.0,11.63673469387755,12.780000000000001,5.0,1.3265306122448979,5.0,0,high-volume multi-title recruiters
+Aon,98.0,5.163265306122449,5.666666666666667,3.0,1.1224489795918366,3.0,1,small low-pay short-tenure employers
+IHS Markit,96.0,10.207291666666665,15.85,4.0,2.59375,4.0,0,high-volume multi-title recruiters
+Provana,96.0,5.542708333333334,6.35,2.0,1.0,2.0,1,small low-pay short-tenure employers
+Udaan,96.0,7.95625,8.3,2.0,1.0,2.0,1,small low-pay short-tenure employers
+Cerner,96.0,8.325000000000001,13.049999999999999,4.0,1.9791666666666667,4.0,1,small low-pay short-tenure employers
+HERE Technologies,95.0,5.2894736842105265,11.600000000000001,3.0,1.1578947368421053,3.0,1,small low-pay short-tenure employers
+Iris Software,95.0,19.86,19.1,4.0,6.410526315789474,4.0,2,senior high-pay boutiques
+CitiusTech,94.0,11.73191489361702,12.9,4.0,3.0106382978723403,4.0,0,high-volume multi-title recruiters
+Dunnhumby,94.0,13.359574468085109,13.085714285714285,4.0,1.7234042553191489,7.0,0,high-volume multi-title recruiters
+Yash Technologies,93.0,9.569892473118278,10.683333333333332,6.0,3.6129032258064515,6.0,0,high-volume multi-title recruiters
+EPAM Systems,92.0,21.63478260869565,20.76666666666667,3.0,6.086956521739131,3.0,2,senior high-pay boutiques
+Meesho,92.0,15.843478260869563,16.65,2.0,0.6956521739130435,2.0,1,small low-pay short-tenure employers
+BCG,91.0,17.852747252747253,18.740000000000002,5.0,3.5274725274725274,5.0,0,high-volume multi-title recruiters
+N+A,89.0,5.7561797752808985,6.199999999999999,3.0,0.4943820224719101,3.0,1,small low-pay short-tenure employers
+Axtria,88.0,9.125,10.100000000000001,2.0,0.125,2.0,1,small low-pay short-tenure employers
+Unisys,87.0,9.941379310344827,10.2,2.0,3.3448275862068964,2.0,1,small low-pay short-tenure employers
+Franklin Templeton Investments,87.0,14.419540229885058,18.8,5.0,4.379310344827586,5.0,0,high-volume multi-title recruiters
+Altisource,85.0,6.6647058823529415,7.0,2.0,2.776470588235294,2.0,1,small low-pay short-tenure employers
+ADP Solutions,84.0,8.619047619047619,10.833333333333334,3.0,3.0476190476190474,3.0,1,small low-pay short-tenure employers
+Lowe's,84.0,17.761904761904763,18.35,4.0,2.8452380952380953,4.0,0,high-volume multi-title recruiters
+Ebix Software India,83.0,7.775903614457831,8.4,2.0,2.5542168674698793,2.0,1,small low-pay short-tenure employers
+McKinsey & Company,82.0,18.712195121951222,19.860000000000003,5.0,2.4878048780487805,5.0,0,high-volume multi-title recruiters
+Merilytics,82.0,7.390243902439025,7.4,2.0,0.0,2.0,1,small low-pay short-tenure employers
+Fidelity Investment,81.0,13.319753086419754,15.533333333333331,3.0,2.0987654320987654,3.0,1,small low-pay short-tenure employers
+NIIT Technologies,81.0,12.488888888888887,13.799999999999999,3.0,2.654320987654321,3.0,1,small low-pay short-tenure employers
+Freelancer.com,81.0,5.038271604938271,5.3,3.0,0.9135802469135802,3.0,1,small low-pay short-tenure employers
+Ganit Business Solutions,80.0,9.32375,11.225,4.0,1.3,4.0,1,small low-pay short-tenure employers
+Capco Technologies,80.0,15.189999999999998,16.05,2.0,4.2,2.0,2,senior high-pay boutiques
+Google,79.0,21.535443037974684,30.4,2.0,1.4050632911392404,2.0,1,small low-pay short-tenure employers
+Schlumberger,78.0,14.305128205128204,14.1,2.0,2.7564102564102564,2.0,1,small low-pay short-tenure employers
+Datamatics Global Services,76.0,2.2578947368421054,3.5999999999999996,2.0,0.05263157894736842,2.0,1,small low-pay short-tenure employers
+Proziod Analytics,76.0,3.960526315789474,4.2,2.0,1.6578947368421053,2.0,1,small low-pay short-tenure employers
+FE fundinfo,76.0,3.7144736842105264,4.05,2.0,0.5526315789473685,2.0,1,small low-pay short-tenure employers
+Nvidia,74.0,4.5162162162162165,12.3,2.0,1.0675675675675675,2.0,1,small low-pay short-tenure employers
+Confidential,73.0,8.29041095890411,8.066666666666668,3.0,1.0,3.0,1,small low-pay short-tenure employers
+Futurense Technologies,72.0,9.5,9.5,1.0,1.0,1.0,1,small low-pay short-tenure employers
+DBS Bank,72.0,15.32777777777778,17.225,4.0,2.5277777777777777,4.0,0,high-volume multi-title recruiters
+ThoughtWorks,71.0,16.298591549295775,16.866666666666664,3.0,2.676056338028169,3.0,1,small low-pay short-tenure employers
+ANR Software,71.0,4.5,4.5,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Uber,71.0,13.202816901408452,13.2,2.0,1.5070422535211268,2.0,1,small low-pay short-tenure employers
+IVY Comptech,71.0,16.98169014084507,19.03333333333333,3.0,5.422535211267606,3.0,2,senior high-pay boutiques
+Continental Automotive Components,68.0,2.6661764705882356,2.75,2.0,1.2205882352941178,2.0,1,small low-pay short-tenure employers
+SG Analytics,68.0,5.70735294117647,6.3,3.0,1.0147058823529411,3.0,1,small low-pay short-tenure employers
+Azentio,68.0,9.045588235294119,10.25,2.0,0.9264705882352942,2.0,1,small low-pay short-tenure employers
+RevGurus Info India,68.0,8.3,8.3,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Mercer,68.0,5.042647058823529,4.966666666666667,3.0,0.9705882352941176,3.0,1,small low-pay short-tenure employers
+E2OPEN,67.0,4.517910447761194,5.1,2.0,2.626865671641791,2.0,1,small low-pay short-tenure employers
+Ardem Data Services,67.0,1.9,1.9,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Nagarro,67.0,16.025373134328355,16.825000000000003,4.0,1.8059701492537314,4.0,0,high-volume multi-title recruiters
+JLL,66.0,9.992424242424242,11.733333333333334,3.0,2.1818181818181817,3.0,1,small low-pay short-tenure employers
+Johnson & Johnson,66.0,9.709090909090909,14.375,4.0,2.409090909090909,4.0,1,small low-pay short-tenure employers
+Impact Analytics,66.0,10.866666666666667,11.2,2.0,0.8484848484848485,2.0,1,small low-pay short-tenure employers
+Verificient Technologies,65.0,2.2,2.2,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Cybage,65.0,15.646153846153846,16.3,2.0,5.923076923076923,2.0,2,senior high-pay boutiques
+Tata Communications,65.0,4.56,4.45,2.0,0.6,2.0,1,small low-pay short-tenure employers
+CRG Solutions,64.0,5.8,5.8,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Sutherland Global Services,63.0,6.376190476190476,6.633333333333333,3.0,1.1904761904761905,3.0,1,small low-pay short-tenure employers
+Bosch Global Software Technologies,63.0,14.492063492063492,14.225000000000001,4.0,1.8253968253968254,4.0,1,small low-pay short-tenure employers
+Thomson Reuters,63.0,8.942857142857143,11.175,4.0,2.634920634920635,4.0,1,small low-pay short-tenure employers
+Broadridge Financial Solutions,62.0,10.8,10.8,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Freelance Consultants,62.0,8.21774193548387,15.233333333333334,3.0,1.4838709677419355,3.0,1,small low-pay short-tenure employers
+Kriya It,61.0,1.6,1.6,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Xyz Company,60.0,12.3,12.3,2.0,2.6666666666666665,2.0,1,small low-pay short-tenure employers
+Indus Valley Partners,60.0,17.0,17.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Happiest Minds Technologies,60.0,13.403333333333332,15.4,5.0,3.4166666666666665,5.0,0,high-volume multi-title recruiters
+MSC Technology India,60.0,5.14,5.5,2.0,1.7,2.0,1,small low-pay short-tenure employers
+Schneider Electric,59.0,7.250847457627118,7.949999999999999,2.0,1.2881355932203389,2.0,1,small low-pay short-tenure employers
+CRMnext,58.0,6.6,6.6,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Fidelity National Financial,58.0,3.493103448275862,4.1,2.0,0.2413793103448276,2.0,1,small low-pay short-tenure employers
+Systech Solutions,57.0,4.531578947368422,4.4,2.0,0.0,2.0,1,small low-pay short-tenure employers
+Adobe,57.0,26.17894736842105,28.04,5.0,4.543859649122807,5.0,2,senior high-pay boutiques
+NeoSoft Technologies,57.0,6.9,6.9,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Hinduja Global Solutions,56.0,4.605357142857143,7.533333333333334,3.0,1.5714285714285714,3.0,1,small low-pay short-tenure employers
+NSE.IT,56.0,6.8,6.8,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Xoriant,56.0,14.848214285714286,15.5,3.0,4.428571428571429,3.0,2,senior high-pay boutiques
+Straive,56.0,3.3857142857142857,5.8500000000000005,2.0,0.42857142857142855,2.0,1,small low-pay short-tenure employers
+LiquidHub,55.0,3.0090909090909093,3.05,2.0,0.9090909090909091,2.0,1,small low-pay short-tenure employers
+Micron Technology,55.0,16.116363636363634,16.366666666666664,3.0,2.5454545454545454,3.0,1,small low-pay short-tenure employers
+Great Learning,55.0,9.9,10.8,2.0,0.6,2.0,1,small low-pay short-tenure employers
+Commonwealth Bank of Australia,55.0,26.485454545454548,27.925,4.0,4.345454545454546,4.0,2,senior high-pay boutiques
+Competent Software,54.0,3.1,3.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Exela Technologies,54.0,8.3,8.3,1.0,3.0,1.0,1,small low-pay short-tenure employers
+The Smart Cube,54.0,8.50925925925926,8.65,2.0,0.42592592592592593,2.0,1,small low-pay short-tenure employers
+Caterpillar Inc,54.0,9.996296296296297,13.933333333333332,3.0,1.9814814814814814,3.0,1,small low-pay short-tenure employers
+Collabera Technologies,53.0,12.111320754716981,13.125,4.0,3.9245283018867925,4.0,0,high-volume multi-title recruiters
+MasterCard,53.0,19.662264150943393,20.066666666666666,3.0,1.4339622641509433,3.0,1,small low-pay short-tenure employers
+Analytics Quotient,53.0,5.3,5.3,1.0,1.0,1.0,1,small low-pay short-tenure employers
+QualityKiosk Technologies,53.0,7.7,7.7,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Veeraraghavan & Company,52.0,1.6999999999999997,1.7,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Polestar Solutions & Services India,52.0,6.1,6.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Sonata Software,52.0,7.886538461538461,7.949999999999999,2.0,1.0,2.0,1,small low-pay short-tenure employers
+Innominds Software,51.0,12.86862745098039,14.65,2.0,1.8235294117647058,2.0,1,small low-pay short-tenure employers
+Better.com,51.0,7.8,7.8,1.0,1.0,1.0,1,small low-pay short-tenure employers
+KJ System,50.0,2.9,2.9,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Vinculum Solutions,49.0,8.8,8.8,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Kyndryl,49.0,16.846938775510203,23.766666666666666,3.0,2.7346938775510203,3.0,2,senior high-pay boutiques
+Optimint Solutions,49.0,2.2,2.2,1.0,0.0,1.0,1,small low-pay short-tenure employers
+IndusInd Bank,49.0,8.0,8.0,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Shipco Transport,48.0,3.4,3.4,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Yodlee,48.0,8.5875,15.0,3.0,1.6041666666666667,3.0,1,small low-pay short-tenure employers
+Photon Interactive,48.0,9.525,9.0,2.0,4.0,2.0,1,small low-pay short-tenure employers
+Reliance Retail,47.0,6.851063829787234,6.5,2.0,1.148936170212766,2.0,1,small low-pay short-tenure employers
+Sopra Steria,47.0,13.748936170212765,13.35,2.0,3.0,2.0,1,small low-pay short-tenure employers
+UnitedLex,47.0,3.1000000000000005,3.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Intelligent Image Management Inc,47.0,1.4,1.4,1.0,0.0,1.0,1,small low-pay short-tenure employers
+DataMetica,47.0,7.280851063829788,9.850000000000001,2.0,0.5106382978723404,2.0,1,small low-pay short-tenure employers
+InSync Analytics,46.0,2.715217391304348,3.05,2.0,1.5869565217391304,2.0,1,small low-pay short-tenure employers
+CAMP Systems,46.0,4.195652173913044,4.449999999999999,2.0,1.9130434782608696,2.0,1,small low-pay short-tenure employers
+Subex,46.0,11.208695652173914,14.666666666666666,3.0,1.326086956521739,3.0,1,small low-pay short-tenure employers
+Lumiq.ai,46.0,9.469565217391304,10.133333333333333,3.0,0.6521739130434783,3.0,1,small low-pay short-tenure employers
+SAP,45.0,19.533333333333335,27.0,2.0,2.5555555555555554,2.0,2,senior high-pay boutiques
+Siemens,45.0,13.113333333333333,12.699999999999998,3.0,1.8,3.0,1,small low-pay short-tenure employers
+Morgan Stanley,45.0,23.12666666666666,22.46666666666667,3.0,3.911111111111111,3.0,2,senior high-pay boutiques
+Lentra AI,45.0,6.8,6.8,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Bahar Infocons,45.0,2.2,2.2,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Ecolab,44.0,16.013636363636365,16.559999999999995,4.0,4.2272727272727275,5.0,2,senior high-pay boutiques
+Wolters Kluwer,44.0,17.336363636363636,18.1,2.0,2.590909090909091,2.0,2,senior high-pay boutiques
+Acidaes Solutions,43.0,7.0,7.0,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Sigmoid Analytics,43.0,16.334883720930236,17.466666666666665,3.0,0.5813953488372093,3.0,1,small low-pay short-tenure employers
+Landmark Group,43.0,11.6,11.6,1.0,2.0,1.0,1,small low-pay short-tenure employers
+eClinicalWorks,43.0,5.3,5.3,1.0,2.0,1.0,1,small low-pay short-tenure employers
+IBS Software Services,42.0,6.200000000000001,6.2,1.0,2.0,1.0,1,small low-pay short-tenure employers
+VeeTechnologies,42.0,2.2666666666666666,2.45,2.0,1.3333333333333333,2.0,1,small low-pay short-tenure employers
+Visa,42.0,27.666666666666668,28.0,2.0,2.4761904761904763,2.0,2,senior high-pay boutiques
+Decision Point,42.0,11.235714285714286,13.366666666666665,3.0,0.9285714285714286,3.0,1,small low-pay short-tenure employers
+Care Health Insurance,42.0,5.9,5.9,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Sphera Solutions,42.0,3.3999999999999995,3.4,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Koch Business Solutions,41.0,26.846341463414635,30.900000000000002,3.0,4.658536585365853,3.0,2,senior high-pay boutiques
+Tavant Technologies,41.0,10.485365853658536,11.266666666666666,3.0,2.4390243902439024,3.0,1,small low-pay short-tenure employers
+Incedo,41.0,16.44878048780488,15.549999999999999,2.0,2.268292682926829,2.0,1,small low-pay short-tenure employers
+Celebal Technologies,41.0,6.860975609756096,7.05,2.0,0.0,2.0,1,small low-pay short-tenure employers
+NatWest Markets,40.0,14.245,14.7,2.0,3.7,2.0,2,senior high-pay boutiques
+Tsys Card Tech Services,40.0,15.7,15.7,1.0,6.0,1.0,2,senior high-pay boutiques
+Randstad,40.0,4.8075,5.550000000000001,2.0,1.45,2.0,1,small low-pay short-tenure employers
+Atidiv,40.0,3.0,3.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Fidelity International,40.0,15.9,15.9,1.0,5.0,1.0,2,senior high-pay boutiques
+R Systems International,40.0,15.605,15.5,2.0,3.7,2.0,2,senior high-pay boutiques
+Principal Global Services,40.0,12.602500000000001,11.75,2.0,3.325,2.0,1,small low-pay short-tenure employers
+Pboplus Consulting Services,40.0,4.0,4.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+CMS Computers Limited (INDIA),39.0,4.0,4.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Goldman Sachs,39.0,14.9,14.9,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Simplify Healthcare,39.0,5.8,5.8,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Hindustan Unilever,39.0,7.1,7.1,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Factspan Analytics,39.0,8.1,8.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Whitehat Jr,38.0,7.310526315789474,9.25,2.0,1.2105263157894737,2.0,1,small low-pay short-tenure employers
+Philips,38.0,18.639473684210525,19.333333333333332,3.0,3.0526315789473686,3.0,2,senior high-pay boutiques
+Data Entry,38.0,1.7,1.7,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Fluentgrid,38.0,5.5,5.5,1.0,2.0,1.0,1,small low-pay short-tenure employers
+International School of Engineering,38.0,12.286842105263156,15.35,2.0,2.473684210526316,2.0,1,small low-pay short-tenure employers
+Huawei Technologies,38.0,4.3,4.3,1.0,2.0,1.0,1,small low-pay short-tenure employers
+LearningMate Solutions,37.0,10.272972972972974,9.8,2.0,3.1621621621621623,2.0,1,small low-pay short-tenure employers
+Innodatatics,37.0,4.5,4.5,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Blue Yonder,36.0,25.794444444444448,26.1,2.0,2.5277777777777777,2.0,2,senior high-pay boutiques
+Tesco,36.0,6.699999999999999,7.9,2.0,1.0,2.0,1,small low-pay short-tenure employers
+Xceedance,36.0,13.4,13.4,1.0,5.0,1.0,2,senior high-pay boutiques
+Yardi Systems,36.0,3.7000000000000006,3.7,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Vaco Binary Semantics,35.0,3.960000000000001,4.35,2.0,0.2,2.0,1,small low-pay short-tenure employers
+eMids Technologies,35.0,15.3,15.3,1.0,5.0,1.0,2,senior high-pay boutiques
+Axa XL,35.0,9.459999999999999,8.8,2.0,2.4,2.0,1,small low-pay short-tenure employers
+D Cube Analytics,35.0,11.7,11.7,1.0,2.0,1.0,1,small low-pay short-tenure employers
+MetLife,35.0,6.0,6.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Numeratr,35.0,3.0,3.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+BEPEC Solutions,34.0,4.9,4.9,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Yukthi Datasoft,34.0,2.1,2.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+SpringML,33.0,10.124242424242425,10.399999999999999,2.0,1.303030303030303,2.0,1,small low-pay short-tenure employers
+Info Edge,33.0,20.293939393939393,23.9,2.0,0.24242424242424243,2.0,1,small low-pay short-tenure employers
+KPI Partners,33.0,14.566666666666668,14.333333333333334,3.0,3.3333333333333335,3.0,2,senior high-pay boutiques
+Gramener,33.0,11.333333333333334,12.100000000000001,2.0,1.3333333333333333,2.0,1,small low-pay short-tenure employers
+Wavicle Data Solutions,33.0,7.942424242424243,8.45,2.0,1.1515151515151516,2.0,1,small low-pay short-tenure employers
+Orange Business Services,32.0,13.212500000000002,14.450000000000001,2.0,5.0,2.0,2,senior high-pay boutiques
+Data Gyan,32.0,1.8,1.8,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Collegedunia,32.0,4.05625,4.15,2.0,1.0,2.0,1,small low-pay short-tenure employers
+Dataction Analytics,31.0,2.6,2.6,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Data Semantics,31.0,10.158064516129032,12.15,2.0,3.774193548387097,2.0,1,small low-pay short-tenure employers
+TSWRDC WOMEN'S DEGREE COLLEGE,31.0,2.5,2.5,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Danske IT,31.0,18.7,18.7,1.0,7.0,1.0,2,senior high-pay boutiques
+Colgate Palmolive,31.0,13.748387096774193,12.95,2.0,5.064516129032258,2.0,2,senior high-pay boutiques
+BA Continuum,31.0,17.0,18.05,2.0,4.483870967741935,2.0,2,senior high-pay boutiques
+BlazeClan Technologies,30.0,6.4,7.75,2.0,0.8,2.0,1,small low-pay short-tenure employers
+Fragma Data Systems,30.0,5.5,5.5,1.0,0.0,1.0,1,small low-pay short-tenure employers
+HUDL,30.0,2.9,2.9,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Allscripts,30.0,13.9,13.9,1.0,5.0,1.0,2,senior high-pay boutiques
+Saama Technologies,29.0,11.341379310344827,13.1,2.0,2.4827586206896552,2.0,1,small low-pay short-tenure employers
+Annalect,29.0,5.6,5.6,1.0,0.0,1.0,1,small low-pay short-tenure employers
+NIKE,29.0,26.651724137931037,26.15,2.0,4.103448275862069,2.0,2,senior high-pay boutiques
+DataWeave,29.0,9.296551724137931,10.85,2.0,1.4137931034482758,2.0,1,small low-pay short-tenure employers
+Samsung,28.0,19.196428571428573,20.275,3.0,1.8214285714285714,4.0,2,senior high-pay boutiques
+Galytix Analytics,28.0,6.0,6.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+L&T Technology Services,28.0,9.364285714285714,9.733333333333333,3.0,1.6428571428571428,3.0,1,small low-pay short-tenure employers
+FedEx Express,28.0,7.4,7.4,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Accion Labs,28.0,17.692857142857143,17.8,2.0,5.714285714285714,2.0,2,senior high-pay boutiques
+CES,27.0,7.4,7.4,1.0,5.0,1.0,2,senior high-pay boutiques
+APA Engineering,27.0,2.0,2.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Boeing,27.0,21.437037037037037,23.066666666666666,3.0,3.4074074074074074,3.0,2,senior high-pay boutiques
+MResult Services,27.0,8.244444444444444,8.3,2.0,4.222222222222222,2.0,1,small low-pay short-tenure employers
+Statestreet HCL Services,27.0,3.0,3.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Objectways Technologies,26.0,1.5,1.5,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Sandcube Analytics,26.0,2.3,2.3,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Applied Materials,26.0,14.2,14.2,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Bristlecone,26.0,9.0,9.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Eli Lilly and Company,26.0,22.599999999999998,23.53333333333333,3.0,4.230769230769231,3.0,2,senior high-pay boutiques
+Stats Systems India,26.0,2.1,2.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+MindGate Solutions,26.0,12.5,12.5,1.0,5.0,1.0,2,senior high-pay boutiques
+Apple,26.0,29.96153846153846,29.3,2.0,2.423076923076923,2.0,2,senior high-pay boutiques
+First American Corporation,26.0,13.400000000000002,13.4,1.0,5.0,1.0,2,senior high-pay boutiques
+Quest Global,25.0,12.095999999999998,16.599999999999998,3.0,3.36,3.0,1,small low-pay short-tenure employers
+Hive,25.0,4.2,4.2,1.0,0.0,1.0,1,small low-pay short-tenure employers
+ANZ Banking Group,25.0,9.8,9.8,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Pacecom Technologies,25.0,2.1,2.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Jio Platforms,25.0,13.06,12.4,2.0,1.44,2.0,1,small low-pay short-tenure employers
+IDFC FIRST Bank,25.0,16.48,18.1,2.0,1.6,2.0,1,small low-pay short-tenure employers
+NISC Export Services,25.0,3.2,3.2,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Crif High Mark Credit Information Services,25.0,5.5,5.5,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Baker Hughes,24.0,21.175,21.2,3.0,4.25,3.0,2,senior high-pay boutiques
+iNeuron.ai,24.0,5.1,5.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Eurofins It Solutions,24.0,22.0,22.0,1.0,7.0,1.0,2,senior high-pay boutiques
+T-Systems,24.0,17.979166666666668,22.866666666666664,3.0,5.458333333333333,3.0,2,senior high-pay boutiques
+TVS Credit Services,24.0,14.699999999999998,14.7,1.0,4.0,1.0,2,senior high-pay boutiques
+Northern Trust Operating Services,23.0,6.2,6.2,1.0,3.0,1.0,1,small low-pay short-tenure employers
+NCR Corporation,23.0,10.91304347826087,12.75,2.0,1.6521739130434783,2.0,1,small low-pay short-tenure employers
+Apexon,22.0,8.263636363636364,8.9,2.0,2.5454545454545454,2.0,1,small low-pay short-tenure employers
+Scienaptic Systems,22.0,15.759090909090908,17.15,2.0,1.3636363636363635,2.0,1,small low-pay short-tenure employers
+Sabre,22.0,20.1,20.1,1.0,6.0,1.0,2,senior high-pay boutiques
+Jocata Financial Advisory and Technology,22.0,14.3,14.3,1.0,6.0,1.0,2,senior high-pay boutiques
+Toluna,22.0,7.1,7.1,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Volante Technologies,22.0,22.3,22.3,1.0,9.0,1.0,2,senior high-pay boutiques
+Rubixe,21.0,4.7,4.7,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Neal Analytics,21.0,13.619047619047619,17.05,2.0,1.7142857142857142,2.0,1,small low-pay short-tenure employers
+Sopra Banking Software,21.0,16.3,16.3,1.0,6.0,1.0,2,senior high-pay boutiques
+Nailbiter,21.0,4.766666666666667,4.800000000000001,1.0,0.3333333333333333,2.0,1,small low-pay short-tenure employers
+Allsec Technologies,21.0,6.1,6.1,1.0,3.0,1.0,1,small low-pay short-tenure employers
+o9 Solutions,21.0,16.366666666666667,17.65,2.0,2.0,2.0,1,small low-pay short-tenure employers
+Prodapt Solutions,21.0,6.9,6.9,1.0,1.0,1.0,1,small low-pay short-tenure employers
+AstraZeneca,21.0,10.642857142857142,11.65,2.0,3.2857142857142856,2.0,1,small low-pay short-tenure employers
+Springer Nature,20.0,17.0,17.0,1.0,6.0,1.0,2,senior high-pay boutiques
+Value c Consulting India,20.0,5.2,5.2,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Thryve Digital,20.0,10.0,10.0,1.0,5.0,1.0,2,senior high-pay boutiques
+KPIT Technologies,20.0,7.7,7.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Marlabs,20.0,10.280000000000001,11.75,2.0,0.4,2.0,1,small low-pay short-tenure employers
+Mastek,20.0,13.6,13.6,1.0,7.0,1.0,2,senior high-pay boutiques
+ABB Group,20.0,13.0,13.0,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Blackbuck Insights,20.0,4.2,4.2,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Algonomy,20.0,15.665000000000001,17.0,3.0,3.05,3.0,2,senior high-pay boutiques
+Lumen Technologies,20.0,6.6,6.6,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Flip Robo Technologies,20.0,4.7,4.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+L&T Financial Services,20.0,9.3,9.3,1.0,1.0,1.0,1,small low-pay short-tenure employers
+NDS InfoServ,20.0,9.1,9.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Royal Bank of Scotland International,19.0,5.7,5.7,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Cygnet Infotech,19.0,8.6,8.6,1.0,4.0,1.0,1,small low-pay short-tenure employers
+MakeMyTrip,19.0,14.46315789473684,16.95,2.0,3.6315789473684212,2.0,2,senior high-pay boutiques
+Infor Global Solution,19.0,16.8,16.8,1.0,6.0,1.0,2,senior high-pay boutiques
+Brane Enterprises,19.0,14.0,14.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Dun & Bradstreet,19.0,13.268421052631581,13.766666666666666,3.0,3.789473684210526,3.0,2,senior high-pay boutiques
+Unacademy,18.0,13.0,13.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+InfoStretch,18.0,12.600000000000001,13.65,2.0,2.0,2.0,1,small low-pay short-tenure employers
+CARS24.com,18.0,20.3,20.3,1.0,1.0,1.0,1,small low-pay short-tenure employers
+State Street Corporation,18.0,10.7,10.7,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Expedia,18.0,29.599999999999998,31.2,2.0,4.555555555555555,2.0,2,senior high-pay boutiques
+Ocwen Financial Solutions,18.0,9.9,9.9,1.0,4.0,1.0,2,senior high-pay boutiques
+Vedantu,18.0,16.9,16.9,1.0,2.0,1.0,1,small low-pay short-tenure employers
+HCL Infosystems,18.0,9.0,9.0,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Clover Infotech,17.0,9.1,9.1,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Impetus Technologies,17.0,13.1,13.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Infinite Computer Solutions,17.0,9.3,9.3,1.0,4.0,1.0,1,small low-pay short-tenure employers
+Accolite Digital,17.0,14.1,13.65,2.0,0.47058823529411764,2.0,1,small low-pay short-tenure employers
+Innova Solutions,17.0,30.80588235294118,33.400000000000006,2.0,6.117647058823529,2.0,2,senior high-pay boutiques
+Majesco,17.0,13.6,13.6,1.0,5.0,1.0,2,senior high-pay boutiques
+Rakuten,16.0,16.39375,18.25,2.0,1.5625,2.0,1,small low-pay short-tenure employers
+Abzooba India Infotech,16.0,15.0,15.0,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Knoema IT Solutions,16.0,5.05,6.1,2.0,1.25,2.0,1,small low-pay short-tenure employers
+Advance Auto Parts,16.0,16.400000000000002,19.5,2.0,4.0,2.0,2,senior high-pay boutiques
+Exxon Mobil,16.0,23.2,23.2,1.0,2.0,1.0,2,senior high-pay boutiques
+Embibe,16.0,16.6,16.6,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Dynata,16.0,8.8,8.8,1.0,4.0,1.0,1,small low-pay short-tenure employers
+Delhivery,16.0,15.6,15.6,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Unire Business Solutions,16.0,1.9,1.9,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Synchrony,16.0,7.5,7.5,1.0,2.0,1.0,1,small low-pay short-tenure employers
+TransOrg Analytics,16.0,9.4,9.4,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Go-Jek,15.0,30.5,30.5,1.0,3.0,1.0,2,senior high-pay boutiques
+iOPEX Technologies,14.0,7.9,7.9,1.0,1.0,1.0,1,small low-pay short-tenure employers
+VASTA BIO-INFORMATICS,14.0,3.6,3.6,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Michelin,14.0,9.8,9.8,1.0,0.0,1.0,1,small low-pay short-tenure employers
+ICICI Lombard General Insurance Company,14.0,12.1,12.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Clairvoyant India,14.0,12.5,13.3,2.0,3.0714285714285716,2.0,1,small low-pay short-tenure employers
+Reserve Bank Information Technology,14.0,15.9,15.9,1.0,2.0,1.0,1,small low-pay short-tenure employers
+The Data Team,13.0,11.5,11.5,1.0,1.0,1.0,1,small low-pay short-tenure employers
+CSS Corp,13.0,10.2,10.2,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Cittabase Solutions,13.0,7.9,7.9,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Webhelp,13.0,11.100000000000001,11.35,2.0,3.6153846153846154,2.0,2,senior high-pay boutiques
+HTC Global Services,13.0,6.4,6.4,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Oil Field Instrumentation,13.0,6.9,6.9,1.0,6.0,1.0,2,senior high-pay boutiques
+Bitwise Solutions,13.0,6.1,6.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Adidas,13.0,23.0,23.0,1.0,1.0,1.0,2,senior high-pay boutiques
+Mr Cooper,13.0,13.307692307692308,13.4,2.0,2.769230769230769,2.0,1,small low-pay short-tenure employers
+Zee Entertainment Enterprises,13.0,16.7,16.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Red Hat,12.0,14.566666666666668,15.649999999999999,2.0,2.0,2.0,1,small low-pay short-tenure employers
+Qualcomm,12.0,19.4,19.4,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Expert Global Solutions,12.0,2.1,2.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Rackspace,12.0,16.3,16.3,1.0,3.0,1.0,2,senior high-pay boutiques
+Searce Cosourcing Services,12.0,7.400000000000001,7.4,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Publicis,12.0,16.191666666666666,16.45,2.0,3.8333333333333335,2.0,2,senior high-pay boutiques
+Advantmed,12.0,7.099999999999999,7.1,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Autodesk,11.0,26.5,26.5,1.0,0.0,1.0,2,senior high-pay boutiques
+Wissend,11.0,1.9,1.9,1.0,0.0,1.0,1,small low-pay short-tenure employers
+AI Touch,11.0,2.3,2.3,1.0,0.0,1.0,1,small low-pay short-tenure employers
+GSK Pharmaceuticals,11.0,23.1,23.1,1.0,5.0,1.0,2,senior high-pay boutiques
+Denave,11.0,6.7,6.7,1.0,2.0,1.0,1,small low-pay short-tenure employers
+PepsiCo,11.0,31.736363636363638,31.55,2.0,9.090909090909092,2.0,2,senior high-pay boutiques
+Shadowfax Technologies,11.0,7.7,7.7,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Cross-tab Marketing Services,11.0,5.0,5.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Bluemind Solutions,11.0,3.1,3.1,1.0,4.0,1.0,1,small low-pay short-tenure employers
+Resilinc,11.0,5.8,5.8,1.0,4.0,1.0,1,small low-pay short-tenure employers
+nThrive Global Solutions,11.0,11.8,11.8,1.0,2.0,1.0,1,small low-pay short-tenure employers
+OptiSol Business Solutions,11.0,5.6,5.6,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Phoenix American Sales Focus Solutions India,10.0,5.7,5.7,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Fedby Information Services,10.0,4.6,4.6,1.0,3.0,1.0,1,small low-pay short-tenure employers
+AVASOFT,10.0,4.0,4.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+i2e Consulting,10.0,13.1,13.1,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Intersoft Data Labs,10.0,29.2,29.2,1.0,3.0,1.0,2,senior high-pay boutiques
+Experis IT,10.0,8.2,8.2,1.0,5.0,1.0,2,senior high-pay boutiques
+comScore,10.0,19.7,19.7,1.0,5.0,1.0,2,senior high-pay boutiques
+Apisero,10.0,13.5,13.5,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Lenovo,10.0,13.5,13.5,1.0,4.0,1.0,2,senior high-pay boutiques
+Mobikwik,10.0,13.9,13.9,1.0,3.0,1.0,2,senior high-pay boutiques
+DecisionTree Analytics & Services,9.0,12.8,12.8,1.0,3.0,1.0,2,senior high-pay boutiques
+Denodo Technologies,9.0,8.0,8.0,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Clarivate Analytics,9.0,17.7,17.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Automatic Data Processing,9.0,35.333333333333336,35.45,2.0,8.11111111111111,2.0,2,senior high-pay boutiques
+QL2 Software,9.0,3.4,3.4,1.0,4.0,1.0,1,small low-pay short-tenure employers
+News Technology Services,9.0,17.4,17.4,1.0,5.0,1.0,2,senior high-pay boutiques
+Equifax,9.0,6.2,6.2,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Swiss Re,9.0,23.177777777777777,23.549999999999997,2.0,5.555555555555555,2.0,2,senior high-pay boutiques
+Ags Infotech,9.0,5.0,5.0,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Aktrix Technologies,9.0,4.1,4.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Akamai Technologies,9.0,25.87777777777778,25.700000000000003,2.0,4.444444444444445,2.0,2,senior high-pay boutiques
+Rapido,9.0,14.899999999999999,14.9,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Landis+Gyr,9.0,15.0,15.0,1.0,5.0,1.0,2,senior high-pay boutiques
+Xiaomi,8.0,9.5,9.5,1.0,5.0,1.0,2,senior high-pay boutiques
+AntWorks,8.0,20.6,20.6,1.0,3.0,1.0,2,senior high-pay boutiques
+Hitachi,8.0,30.375,32.3,2.0,12.25,2.0,2,senior high-pay boutiques
+Games24x7,8.0,17.9,17.9,1.0,5.0,1.0,2,senior high-pay boutiques
+Home Credit Finance,8.0,7.6,7.6,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Hudson's bay Company,8.0,15.7,15.7,1.0,3.0,1.0,2,senior high-pay boutiques
+Claim Genius,8.0,21.4,21.4,1.0,3.0,1.0,2,senior high-pay boutiques
+Wunderman,8.0,5.7,5.7,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Sentieo,8.0,5.9,5.9,1.0,2.0,1.0,1,small low-pay short-tenure employers
+S&P Capital IQ,8.0,6.4,6.4,1.0,3.0,1.0,1,small low-pay short-tenure employers
+BUDDI.AI,8.0,4.2,4.2,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Nisum Technologies,8.0,20.1,20.1,1.0,3.0,1.0,2,senior high-pay boutiques
+Blinkit,8.0,16.7,16.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Lam Research,8.0,16.5,16.5,1.0,3.0,1.0,2,senior high-pay boutiques
+Cartesian Consulting,7.0,7.5,7.5,1.0,1.0,1.0,1,small low-pay short-tenure employers
+B3Intelligence,7.0,6.8,6.8,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Trantor,7.0,9.4,9.4,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Mobile Premier League,7.0,25.2,25.2,1.0,1.0,1.0,2,senior high-pay boutiques
+Bajaj Finance,7.0,20.0,20.0,1.0,1.0,1.0,2,senior high-pay boutiques
+Johnson Controls,7.0,25.1,25.1,1.0,4.0,1.0,2,senior high-pay boutiques
+D2L Pharma Research Solutions,7.0,4.3,4.3,1.0,4.0,1.0,1,small low-pay short-tenure employers
+e-Zest,7.0,4.5,4.5,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Symphony Retail AI,7.0,10.5,10.5,1.0,3.0,1.0,1,small low-pay short-tenure employers
+TO THE NEW,7.0,18.9,18.9,1.0,4.0,1.0,2,senior high-pay boutiques
+Aakash Institute,7.0,5.3,5.3,1.0,1.0,1.0,1,small low-pay short-tenure employers
+TIAA Global Business Services,7.0,15.5,15.5,1.0,6.0,1.0,2,senior high-pay boutiques
+Luxoft,7.0,19.5,19.5,1.0,5.0,1.0,2,senior high-pay boutiques
+Fuel Intelligence,7.0,4.5,4.5,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Anthology,6.0,25.5,25.5,1.0,11.0,1.0,2,senior high-pay boutiques
+Ignitarium Technology Solutions,6.0,5.8,5.8,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Monsoon CreditTech,6.0,9.6,9.6,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Quantium Analytics,6.0,25.0,25.0,1.0,5.0,1.0,2,senior high-pay boutiques
+MKS Vision,6.0,18.1,18.1,1.0,7.0,1.0,2,senior high-pay boutiques
+Ninjacart,6.0,6.7,6.7,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Xpo Logistics,6.0,16.3,16.3,1.0,6.0,1.0,2,senior high-pay boutiques
+Encore Capital Group,6.0,8.5,8.5,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Sysark,6.0,3.7000000000000006,3.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Yum!,6.0,15.300000000000002,15.3,1.0,2.0,1.0,2,senior high-pay boutiques
+Renault Nissan Technology & Business Centre India,6.0,8.2,8.2,1.0,5.0,1.0,2,senior high-pay boutiques
+Athenahealth Technology,6.0,6.099999999999999,6.1,1.0,6.0,1.0,2,senior high-pay boutiques
+Arthur J. Gallagher & Co,6.0,5.5,5.5,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Williams Lea Tag,6.0,6.599999999999999,6.6,1.0,5.0,1.0,2,senior high-pay boutiques
+XL Catlin,6.0,14.9,14.9,1.0,3.0,1.0,2,senior high-pay boutiques
+Lucida Technologies,6.0,3.6,3.6,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Cummins,6.0,23.2,23.2,1.0,3.0,1.0,2,senior high-pay boutiques
+Eversana,6.0,14.300000000000002,14.3,1.0,4.0,1.0,2,senior high-pay boutiques
+Apar Technologies,5.0,24.5,24.5,1.0,8.0,1.0,2,senior high-pay boutiques
+Alliance Data,5.0,16.9,16.9,1.0,4.0,1.0,2,senior high-pay boutiques
+Allstate,5.0,12.1,12.1,1.0,5.0,1.0,2,senior high-pay boutiques
+ACL Digital,5.0,18.8,18.8,1.0,3.0,1.0,2,senior high-pay boutiques
+ZF Group,5.0,16.8,16.8,1.0,2.0,1.0,2,senior high-pay boutiques
+Amnet Digital,5.0,11.8,11.8,1.0,2.0,1.0,1,small low-pay short-tenure employers
+ACS Solution,5.0,15.2,15.2,1.0,3.0,1.0,2,senior high-pay boutiques
+AlgoAnalytics Financial Consultancy,5.0,18.9,18.9,1.0,3.0,1.0,2,senior high-pay boutiques
+Anju Software,5.0,16.9,16.9,1.0,4.0,1.0,2,senior high-pay boutiques
+phData,5.0,20.0,20.0,1.0,4.0,1.0,2,senior high-pay boutiques
+HALODOC,5.0,27.4,27.4,1.0,2.0,1.0,2,senior high-pay boutiques
+Kloud 9,5.0,29.9,29.9,1.0,7.0,1.0,2,senior high-pay boutiques
+Intuit,5.0,39.0,39.0,1.0,8.0,1.0,2,senior high-pay boutiques
+Riskonnect,5.0,8.5,8.5,1.0,4.0,1.0,2,senior high-pay boutiques
+Information Evolution,5.0,3.4,3.4,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Reflections Info Systems,5.0,3.6,3.6,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Siemens Healthineers,5.0,20.0,20.0,1.0,4.0,1.0,2,senior high-pay boutiques
+Softcrylic Technology Solutions,5.0,18.6,18.6,1.0,4.0,1.0,2,senior high-pay boutiques
+Blend360,5.0,30.4,30.4,1.0,5.0,1.0,2,senior high-pay boutiques
+GGK Technologies,5.0,11.2,11.2,1.0,5.0,1.0,2,senior high-pay boutiques
+Sri Ayyan Kendra Vidyalaya International School,5.0,6.1,6.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Qualitas Technologies,5.0,4.7,4.7,1.0,1.0,1.0,1,small low-pay short-tenure employers
+EEGRAB,5.0,5.1,5.1,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Taglr Technologies,5.0,6.3,6.3,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Takvaviya Analytics,5.0,4.8,4.8,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Digitalmain,5.0,4.4,4.4,1.0,1.0,1.0,1,small low-pay short-tenure employers
+MassMutual,5.0,19.3,19.3,1.0,6.0,1.0,2,senior high-pay boutiques
+Neewee Analytics,5.0,14.9,14.9,1.0,3.0,1.0,2,senior high-pay boutiques
+ConcertAI,5.0,28.2,28.2,1.0,5.0,1.0,2,senior high-pay boutiques
+V2 Solutions,5.0,8.5,8.5,1.0,2.0,1.0,1,small low-pay short-tenure employers
+CIMCON Software,5.0,6.6,6.6,1.0,2.0,1.0,1,small low-pay short-tenure employers
+Chegg,5.0,32.2,32.2,1.0,3.0,1.0,2,senior high-pay boutiques
+Chubb Group,5.0,16.6,16.6,1.0,4.0,1.0,2,senior high-pay boutiques
+Noodle.Ai,5.0,21.7,21.7,1.0,2.0,1.0,2,senior high-pay boutiques
+Metagogy Learning Systems,5.0,3.7,3.7,1.0,0.0,1.0,1,small low-pay short-tenure employers
+AAIC Technologies,5.0,9.1,9.1,1.0,0.0,1.0,1,small low-pay short-tenure employers
+Danaher,5.0,24.8,24.8,1.0,6.0,1.0,2,senior high-pay boutiques
+Decimal Point Analytics,5.0,20.2,20.2,1.0,2.0,1.0,2,senior high-pay boutiques
+Phenom,5.0,12.6,12.6,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Decision Minds,5.0,19.0,19.0,1.0,5.0,1.0,2,senior high-pay boutiques
+MSCI,4.0,38.4,38.4,1.0,6.0,1.0,2,senior high-pay boutiques
+Milliman,4.0,19.5,19.5,1.0,5.0,1.0,2,senior high-pay boutiques
+KrazyBee,4.0,10.3,10.3,1.0,3.0,1.0,1,small low-pay short-tenure employers
+Onepoint IT Consulting,4.0,10.3,10.3,1.0,4.0,1.0,2,senior high-pay boutiques
+Pitney Bowes,4.0,17.5,17.5,1.0,3.0,1.0,2,senior high-pay boutiques
+Roche Diagnostics,4.0,33.1,33.1,1.0,5.0,1.0,2,senior high-pay boutiques
+Maveric Systems,4.0,19.0,19.0,1.0,9.0,1.0,2,senior high-pay boutiques
+Blackhawk Network,4.0,21.8,21.8,1.0,5.0,1.0,2,senior high-pay boutiques
+Aditya Birla Group,4.0,28.0,28.0,1.0,7.0,1.0,2,senior high-pay boutiques
+Intel,4.0,14.4,14.4,1.0,1.0,1.0,1,small low-pay short-tenure employers
+Sapient Global Markets,4.0,19.9,19.9,1.0,5.0,1.0,2,senior high-pay boutiques
+Senvion,4.0,12.7,12.7,1.0,4.0,1.0,2,senior high-pay boutiques
+XL Health,4.0,9.9,9.9,1.0,4.0,1.0,2,senior high-pay boutiques
+Omega Healthcare,4.0,14.1,14.1,1.0,7.0,1.0,2,senior high-pay boutiques
+Whishworks It Consulting,4.0,29.8,29.8,1.0,13.0,1.0,2,senior high-pay boutiques
+Western Union,4.0,22.2,22.2,1.0,4.0,1.0,2,senior high-pay boutiques
+Tata Motors,4.0,11.5,11.5,1.0,4.0,1.0,2,senior high-pay boutiques
+Techolution,4.0,10.0,10.0,1.0,4.0,1.0,2,senior high-pay boutiques
+Telstra,4.0,27.6,27.6,1.0,7.0,1.0,2,senior high-pay boutiques
+Wabtec,4.0,20.0,20.0,1.0,9.0,1.0,2,senior high-pay boutiques
+Cimpress,4.0,20.5,20.5,1.0,4.0,1.0,2,senior high-pay boutiques
+USEReady,4.0,14.3,14.3,1.0,4.0,1.0,2,senior high-pay boutiques
+Calsoft,4.0,10.9,10.9,1.0,1.0,1.0,1,small low-pay short-tenure employers
+EdgeVerve Systems,4.0,20.4,20.4,1.0,5.0,1.0,2,senior high-pay boutiques

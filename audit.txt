@@ -1,0 +1,332 @@
+======================================================================
+FILE: Analytics Jobs.csv
+======================================================================
+SHAPE: 15841 rows x 8 cols
+
+DTYPES:
+  s_no: int64
+  experience: object
+  job_description: object
+  job_desig: object
+  job_type: object
+  key_skills: object
+  location: object
+  salary: object
+
+MISSING VALUES (column: n / %):
+  s_no: 0 / 0.0%
+  experience: 0 / 0.0%
+  job_description: 3508 / 22.15%
+  job_desig: 0 / 0.0%
+  job_type: 12011 / 75.82%
+  key_skills: 1 / 0.01%
+  location: 0 / 0.0%
+  salary: 0 / 0.0%
+  TOTAL missing cells: 15520
+
+DUPLICATE ROWS: 0
+UNIQUE ROWS: 15841
+
+FIRST 5 ROWS:
+   s_no experience                                                                                              job_description                                                    job_desig job_type                                                               key_skills                                   location  salary
+0     1   6-10 yrs  Must be knowledgeable and experienced in relational database concepts,Oracle Apps database architecture ...                              Oracle EBS Technical Consultant      NaN  Oracle SQL, PLSQL, PL, Oracle Forms, Oracle Reports, Oracle Workflow...                         Bengaluru, Chennai   6to10
+1     2   8-12 yrs  - Experience in building scalable and highly available distributed systems;- Hands-on experience in web ...  Staff Software Engineer - Object Oriented Analysis & Design      NaN  Javascript, HTML, JQuery, Web Development, Play Framework, MVC, Rest...                                  Bengaluru  10to15
+2     3    3-8 yrs                                                                                                          NaN                                         Servicenow Developer      NaN                                   SNOW, Servicenow, Servicenow Developer                            Hyderabad, Pune    0to3
+3     4    3-6 yrs          Our software engineers at Fiserv bring an open and creative mindset to a global team developing ...                    Software Development Engineering, Analyst      NaN     QTP, Flex, LAN, Application support, Performance testing, Eclipse...                                       Pune   6to10
+4     5   5-10 yrs          - More than 5 years experience in Hypermesh for Finite Element model setup for large assemblies ...                              NVH Engineer - Nastran/ Ls-dyna      NaN  HyperMesh, LS - DYNA, NASTRAN, Abaqus, Fatigue, Durability, NVH, FEA...  Mumbai, Bengaluru, Hyderabad, Pune, Delhi  10to15
+
+TEXT COLUMNS (7): ['experience', 'job_description', 'job_desig', 'job_type', 'key_skills', 'location', 'salary']
+
+  TOP 15 VALUES of 'experience':
+      '5-10 yrs': 1010
+      '2-5 yrs': 964
+      '3-8 yrs': 750
+      '2-7 yrs': 665
+      '3-5 yrs': 545
+      '4-9 yrs': 527
+      '3-6 yrs': 523
+      '7-12 yrs': 485
+      '1-3 yrs': 474
+      '5-8 yrs': 446
+      '4-8 yrs': 430
+      '1-5 yrs': 429
+      '2-4 yrs': 409
+      '1-6 yrs': 400
+      '8-13 yrs': 397
+
+  TOP 15 VALUES of 'job_description':
+      <NA>: 3508
+      'Accenture Technology powers our clients businesses with innovative technologies established and emerging ...': 117
+      '- Experience in Credit card/ banking domain with knowledge across customer lifecycle is must;- Candidate ...': 39
+      '- Experience in defining and executing professional software engineering best practices for the full ...': 26
+      '- An advanced degree in Math, Computer Science, Statistics, Physics, or a related field (high GPAs ...': 26
+      '- Team management / mentor ship experience is must; Should be good at resolving conflicts;- Experience ...': 25
+      '- Post-Graduate degree in statistics, finance, mathematics, engineering (Computer Science preferred) or ...': 24
+      '- Good team management, project management and communication (both written and verbal) skills, including ...': 24
+      'Experience leading teams of size 5-15 members;Very good knowledge of statistical techniques such as ...': 23
+      'Utilize strong analytical ability to evaluate end-to-end customer experience across multiple channels ...': 23
+      '- Experience in banking domain with knowledge across customer lifecycle is must;- Candidate should have ...': 21
+      '- Proven working experience as a data analyst or business data analyst;- Knowledge of statistics and ...': 19
+      'Chartered Accountancy degree or MBA in Finance from a premier institute with 1-3 years of experience in ...': 15
+      '- A minimum of three years prior experience in a similar role;- A strong academic background from a top ...': 15
+      '- Good problem structuring skills, ability to rapidly grasp new concepts/industry, ability to prioritize ...': 14
+
+  TOP 15 VALUES of 'job_desig':
+      'Business Analyst': 108
+      'Data Scientist': 64
+      'Data Analyst': 50
+      'Digital Marketing Manager': 45
+      'Home Base Job/ Data Entry/online Work/part Time Work/freelancer work': 45
+      'Product Manager': 44
+      'Digital Marketing Executive': 36
+      'Analyst': 35
+      'SEO Executive': 29
+      'SEO Analyst': 26
+      'Microsoft Advanced Analytics': 24
+      'Associate': 24
+      'Program Control Services': 22
+      'Software Engineer': 22
+      'Application Developer': 22
+
+  TOP 15 VALUES of 'job_type':
+      <NA>: 12011
+      'Analytics': 2971
+      'analytics': 746
+      'ANALYTICS': 64
+      'analytic': 30
+      'Analytic': 19
+
+  TOP 15 VALUES of 'key_skills':
+      'part time, freelancing, data entry, present job, work from home...': 66
+      'SAS, Sdtm, Adam, Statistical Programming, Statistics, Life Sciences...': 15
+      'Ar Calling, ar analyst, accounts receivable, revenue cycle management...': 14
+      'Communication Skills, Analytical, Problem Solving, itil solving...': 13
+      'Fraud Analytics, People Management Skills, Team Leading, Problem Solving...': 13
+      'SAS, Logistic Regression, Chaid, R, Data Analytics, Anova, Excel...': 13
+      'data entry operation, typing, excel, notepad, freelancing, content writing,...': 12
+      'Excel, SQL, Data Analysis, Segmentation, SAS, Data Mining, SPSS...': 12
+      'Linear Regression, Insurance Analytics, Business Analysis...': 12
+      'Analytics, SAS, banking, insurance, Analytics Head': 12
+      'Linux, Windows, Troubleshooting, Network security, Salesforce, Outsourcing,...': 11
+      'Action Request System, ITSM, Bmc Remedy, ITIL, Technical Support...': 10
+      'Legal Process Outsourcing, Business Solutions, Business Services...': 10
+      'business analysis, System Analyst, Business Analyst...': 10
+      'sales management, business development management, lead generation...': 10
+
+  TOP 15 VALUES of 'location':
+      'Bengaluru': 3333
+      'Mumbai': 1992
+      'Gurgaon': 1313
+      'Pune': 945
+      'Hyderabad': 878
+      'Chennai': 786
+      'Delhi NCR': 593
+      'Noida': 403
+      'Delhi NCR, Gurgaon': 278
+      'Delhi': 198
+      'Gurgaon, Gurugram': 195
+      'Kolkata': 159
+      'Ahmedabad': 150
+      'Navi Mumbai': 114
+      'Kochi': 77
+
+  TOP 15 VALUES of 'salary':
+      '10to15': 3608
+      '15to25': 3281
+      '6to10': 2876
+      '0to3': 2592
+      '3to6': 2239
+      '25to50': 1245
+
+======================================================================
+FILE: DataScience Jobs.csv
+======================================================================
+SHAPE: 1602 rows x 8 cols
+
+DTYPES:
+  reference_no: int64
+  company_name: object
+  job_title: object
+  min_experience: int64
+  avg_salary: object
+  min_salary: object
+  max_salary: object
+  num_of_jobs: int64
+
+MISSING VALUES (column: n / %):
+  reference_no: 0 / 0.0%
+  company_name: 0 / 0.0%
+  job_title: 0 / 0.0%
+  min_experience: 0 / 0.0%
+  avg_salary: 0 / 0.0%
+  min_salary: 0 / 0.0%
+  max_salary: 0 / 0.0%
+  num_of_jobs: 0 / 0.0%
+  TOTAL missing cells: 0
+
+DUPLICATE ROWS: 0
+UNIQUE ROWS: 1602
+
+FIRST 5 ROWS:
+   reference_no company_name       job_title  min_experience avg_salary min_salary max_salary  num_of_jobs
+0          7834          TCS  Data Scientist               2       7.8L       4.5L      16.0L          841
+1          7862    Accenture  Data Scientist               2      12.8L       5.8L      23.0L          501
+2          5925          IBM  Data Scientist               2      13.4L       5.3L      25.0L          394
+3          7578    Cognizant  Data Scientist               2       9.8L       5.0L      18.0L          318
+4          7177    Capgemini  Data Scientist               2       8.6L       4.8L      14.6L          300
+
+TEXT COLUMNS (5): ['company_name', 'job_title', 'avg_salary', 'min_salary', 'max_salary']
+
+  TOP 15 VALUES of 'company_name':
+      'TCS': 10
+      'Deloitte': 10
+      'UST': 10
+      'DXC Technology': 10
+      'Mindtree': 10
+      'Accenture': 10
+      'HCL Technologies': 10
+      'JP Morgan Chase': 10
+      'Tech Mahindra': 10
+      'Wipro': 10
+      'Infosys': 10
+      'IBM': 10
+      'Capgemini': 10
+      'Cognizant': 10
+      'Hewlett-Packard Enterprise': 9
+
+  TOP 15 VALUES of 'job_title':
+      'Data Scientist': 188
+      'Business Analyst': 188
+      'Data Engineer': 188
+      'Data Analyst': 187
+      'Senior Business Analyst': 187
+      'Senior Data Analyst': 187
+      'Senior Data Scientist': 185
+      'Senior Data Engineer': 183
+      'Machine Learning Engineer': 59
+      'Data Architect': 50
+
+  TOP 15 VALUES of 'avg_salary':
+      '9.7L': 16
+      '9.9L': 15
+      '12.8L': 14
+      '7.0L': 14
+      '7.7L': 14
+      '5.8L': 14
+      '10.0L': 14
+      '8.2L': 13
+      '5.5L': 13
+      '9.8L': 13
+      '9.0L': 13
+      '11.1L': 13
+      '10.5L': 13
+      '8.0L': 12
+      '12.1L': 12
+
+  TOP 15 VALUES of 'min_salary':
+      '5.0L': 62
+      '6.0L': 60
+      '10.0L': 49
+      '4.5L': 47
+      '9.0L': 47
+      '7.0L': 46
+      '4.0L': 45
+      '3.0L': 37
+      '11.0L': 36
+      '8.0L': 36
+      '15.0L': 33
+      '3.5L': 32
+      '12.0L': 31
+      '5.5L': 26
+      '8.5L': 26
+
+  TOP 15 VALUES of 'max_salary':
+      '20.0L': 63
+      '18.0L': 45
+      '12.0L': 45
+      '25.0L': 44
+      '15.0L': 44
+      '16.0L': 41
+      '30.0L': 39
+      '22.0L': 38
+      '24.0L': 33
+      '13.0L': 33
+      '14.0L': 32
+      '21.0L': 31
+      '19.0L': 31
+      '23.0L': 28
+      '26.0L': 26
+
+======================================================================
+FILE: JDS Skill Traits.xlsx
+======================================================================
+SHAPE: 139 rows x 7 cols
+
+DTYPES:
+  id: int64
+  big_data_skills: float64
+  maths-stats_skills: float64
+  coding_skills: float64
+  ai_and_ml_skills: float64
+  dashboard_and_storytelling_skills: float64
+  salary_hike_high_or_low: int64
+
+MISSING VALUES (column: n / %):
+  id: 0 / 0.0%
+  big_data_skills: 0 / 0.0%
+  maths-stats_skills: 0 / 0.0%
+  coding_skills: 0 / 0.0%
+  ai_and_ml_skills: 0 / 0.0%
+  dashboard_and_storytelling_skills: 0 / 0.0%
+  salary_hike_high_or_low: 0 / 0.0%
+  TOTAL missing cells: 0
+
+DUPLICATE ROWS: 0
+UNIQUE ROWS: 139
+
+FIRST 5 ROWS:
+     id  big_data_skills  maths-stats_skills  coding_skills  ai_and_ml_skills  dashboard_and_storytelling_skills  salary_hike_high_or_low
+0  2809              3.6                 4.0            4.5               4.8                                5.0                        1
+1  2231              5.0                 3.8            3.3               5.0                                4.4                        0
+2  3522              4.1                 3.8            4.4               4.2                                5.0                        1
+3  3291              4.4                 3.0            3.3               4.6                                2.3                        0
+4  3424              2.3                 2.3            2.6               3.3                                3.0                        0
+
+TEXT COLUMNS (0): []
+
+======================================================================
+FILE: SDS Personality Traits.xlsx
+======================================================================
+SHAPE: 161 rows x 7 cols
+
+DTYPES:
+  id: int64
+  neuroticism: int64
+   extraversion: int64
+  openness_to_experience: int64
+  agreeableness: int64
+  conscientiousness: int64
+  success_ classification_ high_low: int64
+
+MISSING VALUES (column: n / %):
+  id: 0 / 0.0%
+  neuroticism: 0 / 0.0%
+   extraversion: 0 / 0.0%
+  openness_to_experience: 0 / 0.0%
+  agreeableness: 0 / 0.0%
+  conscientiousness: 0 / 0.0%
+  success_ classification_ high_low: 0 / 0.0%
+  TOTAL missing cells: 0
+
+DUPLICATE ROWS: 0
+UNIQUE ROWS: 161
+
+FIRST 5 ROWS:
+     id  neuroticism   extraversion  openness_to_experience  agreeableness  conscientiousness  success_ classification_ high_low
+0  8120           33             34                      39             45                 51                                  1
+1  8951           50             36                      31             59                 39                                  0
+2  8656           38             35                      42             39                 49                                  1
+3  8796           41             26                      30             40                 19                                  0
+4  8470           20             17                      21             31                 26                                  0
+
+TEXT COLUMNS (0): []

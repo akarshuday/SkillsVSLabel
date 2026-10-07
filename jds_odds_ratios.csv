@@ -1,0 +1,6 @@
+,odds_ratio_per_1SD,ci_lo,ci_hi,p_value,reliable
+maths_stats,3.784,1.695,8.446,0.001,True
+storytelling,3.124,1.611,6.058,0.001,True
+ai_and_ml,2.435,1.262,4.695,0.008,True
+big_data,2.434,1.312,4.516,0.005,True
+coding,1.501,0.819,2.753,0.189,False

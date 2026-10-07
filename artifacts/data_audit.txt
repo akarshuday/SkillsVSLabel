@@ -1,0 +1,211 @@
+Reading files from: /Users/akarshsrivastwa/Downloads/skills-vs-labels/data/raw
+
+==============================================================================
+ANALYTICS  <-  Analytics Jobs.csv
+==============================================================================
+shape: (15841, 8) | duplicate rows: 0
+
+-- columns, type, missing, unique --
+                  dtype  missing  missing_%  unique
+s_no              int64        0        0.0   15841
+experience       object        0        0.0     128
+job_description  object     3508       22.1    7859
+job_desig        object        0        0.0   10097
+job_type         object    12011       75.8       5
+key_skills       object        1        0.0   11155
+location         object        0        0.0    1355
+salary           object        0        0.0       6
+
+-- first 5 rows --
+   s_no experience                          job_description                                job_desig job_type                               key_skills                                 location  salary
+0     1   6-10 yrs  Must be knowledgeable and experience...          Oracle EBS Technical Consultant      NaN  Oracle SQL, PLSQL, PL, Oracle Forms,...                       Bengaluru, Chennai   6to10
+1     2   8-12 yrs  - Experience in building scalable an...  Staff Software Engineer - Object Ori...      NaN  Javascript, HTML, JQuery, Web Develo...                                Bengaluru  10to15
+2     3    3-8 yrs                                      NaN                     Servicenow Developer      NaN   SNOW, Servicenow, Servicenow Developer                          Hyderabad, Pune    0to3
+3     4    3-6 yrs       Our software engineers at Fiser...  Software Development Engineering, An...      NaN  QTP, Flex, LAN, Application support,...                                     Pune   6to10
+4     5   5-10 yrs  - More than 5 years experience in Hy...          NVH Engineer - Nastran/ Ls-dyna      NaN  HyperMesh, LS - DYNA, NASTRAN, Abaqu...  Mumbai, Bengaluru, Hyderabad, Pune, ...  10to15
+
+-- numeric summary --
+        count    mean      std  min     25%     50%      75%      max
+s_no  15841.0  7921.0  4573.05  1.0  3961.0  7921.0  11881.0  15841.0
+
+-- top values of 'experience' --
+experience
+5-10 yrs    1010
+2-5 yrs      964
+3-8 yrs      750
+2-7 yrs      665
+3-5 yrs      545
+4-9 yrs      527
+3-6 yrs      523
+7-12 yrs     485
+1-3 yrs      474
+5-8 yrs      446
+4-8 yrs      430
+1-5 yrs      429
+2-4 yrs      409
+1-6 yrs      400
+8-13 yrs     397
+
+-- top values of 'job_type' --
+job_type
+nan          12011
+Analytics     2971
+analytics      746
+ANALYTICS       64
+analytic        30
+Analytic        19
+
+-- top values of 'key_skills' --
+key_skills
+part time, freelancing, data entry, present job, w    66
+SAS, Sdtm, Adam, Statistical Programming, Statisti    15
+Ar Calling, ar analyst, accounts receivable, reven    14
+SAS, Logistic Regression, Chaid, R, Data Analytics    13
+Fraud Analytics, People Management Skills, Team Le    13
+Communication Skills, Analytical, Problem Solving,    13
+Linear Regression, Insurance Analytics, Business A    12
+Excel, SQL, Data Analysis, Segmentation, SAS, Data    12
+Analytics, SAS, banking, insurance, Analytics Head    12
+data entry operation, typing, excel, notepad, free    12
+Linux, Windows, Troubleshooting, Network security,    11
+business analysis, System Analyst, Business Analys    10
+sales management, business development management,    10
+Business intelligence, Coding, Business process, O    10
+Legal Process Outsourcing, Business Solutions, Bus    10
+
+-- top values of 'location' --
+location
+Bengaluru             3333
+Mumbai                1992
+Gurgaon               1313
+Pune                   945
+Hyderabad              878
+Chennai                786
+Delhi NCR              593
+Noida                  403
+Delhi NCR, Gurgaon     278
+Delhi                  198
+Gurgaon, Gurugram      195
+Kolkata                159
+Ahmedabad              150
+Navi Mumbai            114
+Kochi                   77
+
+-- top values of 'salary' --
+salary
+10to15    3608
+15to25    3281
+6to10     2876
+0to3      2592
+3to6      2239
+25to50    1245
+
+==============================================================================
+DSJOBS  <-  DataScience Jobs.csv
+==============================================================================
+shape: (1602, 8) | duplicate rows: 0
+
+-- columns, type, missing, unique --
+                 dtype  missing  missing_%  unique
+reference_no     int64        0        0.0    1460
+company_name    object        0        0.0     642
+job_title       object        0        0.0      10
+min_experience   int64        0        0.0      18
+avg_salary      object        0        0.0     305
+min_salary      object        0        0.0     197
+max_salary      object        0        0.0     304
+num_of_jobs      int64        0        0.0     220
+
+-- first 5 rows --
+   reference_no company_name       job_title  min_experience avg_salary min_salary max_salary  num_of_jobs
+0          7834          TCS  Data Scientist               2       7.8L       4.5L      16.0L          841
+1          7862    Accenture  Data Scientist               2      12.8L       5.8L      23.0L          501
+2          5925          IBM  Data Scientist               2      13.4L       5.3L      25.0L          394
+3          7578    Cognizant  Data Scientist               2       9.8L       5.0L      18.0L          318
+4          7177    Capgemini  Data Scientist               2       8.6L       4.8L      14.6L          300
+
+-- numeric summary --
+                 count     mean      std     min      25%     50%     75%     max
+reference_no    1602.0  5105.79  2291.94  1012.0  3225.25  5200.5  7022.5  8998.0
+min_experience  1602.0     2.80     2.35     0.0     1.00     2.0     4.0    21.0
+num_of_jobs     1602.0    58.06   169.04     3.0     9.25    22.0    47.0  4200.0
+
+-- top values of 'job_title' --
+job_title
+Data Scientist               188
+Business Analyst             188
+Data Engineer                188
+Data Analyst                 187
+Senior Business Analyst      187
+Senior Data Analyst          187
+Senior Data Scientist        185
+Senior Data Engineer         183
+Machine Learning Engineer     59
+Data Architect                50
+
+==============================================================================
+JDS  <-  JDS Skill Traits.xlsx
+==============================================================================
+shape: (139, 7) | duplicate rows: 0
+
+-- columns, type, missing, unique --
+                                     dtype  missing  missing_%  unique
+id                                   int64        0        0.0     137
+big_data_skills                    float64        0        0.0      28
+maths_stats_skills                 float64        0        0.0      27
+coding_skills                      float64        0        0.0      22
+ai_and_ml_skills                   float64        0        0.0      22
+dashboard_and_storytelling_skills  float64        0        0.0      21
+salary_hike_high_or_low              int64        0        0.0       2
+
+-- first 5 rows --
+     id  big_data_skills  maths_stats_skills  coding_skills  ai_and_ml_skills  dashboard_and_storytelling_skills  salary_hike_high_or_low
+0  2809              3.6                 4.0            4.5               4.8                                5.0                        1
+1  2231              5.0                 3.8            3.3               5.0                                4.4                        0
+2  3522              4.1                 3.8            4.4               4.2                                5.0                        1
+3  3291              4.4                 3.0            3.3               4.6                                2.3                        0
+4  3424              2.3                 2.3            2.6               3.3                                3.0                        0
+
+-- numeric summary --
+                                   count     mean     std     min      25%     50%     75%     max
+id                                 139.0  2958.46  604.54  2007.0  2383.50  2963.0  3452.0  4000.0
+big_data_skills                    139.0     3.85    0.85     2.3     3.10     3.8     4.6     5.0
+maths_stats_skills                 139.0     4.29    0.84     2.2     3.80     4.6     5.0     5.0
+coding_skills                      139.0     4.27    0.89     2.2     3.35     4.6     5.0     5.0
+ai_and_ml_skills                   139.0     4.57    0.67     2.2     4.40     4.9     5.0     5.0
+dashboard_and_storytelling_skills  139.0     4.36    0.93     2.3     3.75     5.0     5.0     5.0
+salary_hike_high_or_low            139.0     0.53    0.50     0.0     0.00     1.0     1.0     1.0
+
+==============================================================================
+SDS  <-  SDS Personality Traits.xlsx
+==============================================================================
+shape: (161, 7) | duplicate rows: 0
+
+-- columns, type, missing, unique --
+                                 dtype  missing  missing_%  unique
+id                               int64        0        0.0     152
+neuroticism                      int64        0        0.0      45
+extraversion                     int64        0        0.0      47
+openness_to_experience           int64        0        0.0      46
+agreeableness                    int64        0        0.0      47
+conscientiousness                int64        0        0.0      46
+success_classification_high_low  int64        0        0.0       2
+
+-- first 5 rows --
+     id  neuroticism  extraversion  openness_to_experience  agreeableness  conscientiousness  success_classification_high_low
+0  8120           33            34                      39             45                 51                                1
+1  8951           50            36                      31             59                 39                                0
+2  8656           38            35                      42             39                 49                                1
+3  8796           41            26                      30             40                 19                                0
+4  8470           20            17                      21             31                 26                                0
+
+-- numeric summary --
+                                 count     mean     std     min     25%     50%     75%     max
+id                               161.0  8484.60  280.36  8001.0  8228.0  8504.0  8729.0  8979.0
+neuroticism                      161.0    36.19   11.27    17.0    27.0    34.0    44.0    68.0
+extraversion                     161.0    43.20   12.13    17.0    34.0    45.0    53.0    67.0
+openness_to_experience           161.0    41.33   11.32    18.0    32.0    44.0    49.0    65.0
+agreeableness                    161.0    44.60   11.29    17.0    39.0    46.0    51.0    68.0
+conscientiousness                161.0    45.21   13.21    18.0    35.0    49.0    56.0    66.0
+success_classification_high_low  161.0     0.53    0.50     0.0     0.0     1.0     1.0     1.0
+
